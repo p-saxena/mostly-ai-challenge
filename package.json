@@ -1,0 +1,28 @@
+{
+  "name": "mostly-ai-challenge",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.18.9",
+    "@wdio/cli": "^8.3.3",
+    "@wdio/local-runner": "^8.3.3",
+    "@wdio/mocha-framework": "^8.3.0",
+    "@wdio/spec-reporter": "^8.3.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "chromedriver": "^109.0.0",
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.3",
+    "wdio-chromedriver-service": "^8.0.1"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "dependencies": {
+    "expect-webdriverio": "^4.1.1"
+  }
+}

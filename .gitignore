@@ -1,0 +1,10 @@
+node_modules
+screenshots/
+
+#################
+## IntelliJ
+#################
+.idea/*
+!.idea/runConfigurations
+!.idea/runConfigurations/*
+*.iml
