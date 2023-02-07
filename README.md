@@ -14,8 +14,8 @@
 npm run wdio
 ```
 
-### How to executed a specific test suite
-- Execute following command to run all the tests:
+### How to execute a specific test suite
+- Execute following command to run a specific test suite defined in the wdio.conf.js file:
 ```
 npm run wdio -- --suite <suite name>
 ```
