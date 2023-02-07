@@ -41,7 +41,7 @@ class ContactPage extends Page {
   }
 
   get sendMessageButton() {
-    return $('.hs_submit input[value="SEND MESSAGE"]');
+    return $('input[value="SEND MESSAGE"]');
   }
 
   /**
