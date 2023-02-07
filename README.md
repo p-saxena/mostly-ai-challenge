@@ -1,6 +1,6 @@
 # Mostly AI Task
 - E2E tests have been implemented using WebdriverIO framework
-- More info the framework here: https://webdriver.io/docs/gettingstarted/
+- More info on the framework here: https://webdriver.io/docs/gettingstarted/
 
 ### System requirements
 - Install at least v16.x or higher version of Node.js
